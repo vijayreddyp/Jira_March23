@@ -1,0 +1,4 @@
+TC1 The user should be able to login in to TMS
+TC2 The user should be able to check time of transport details
+TC3 THe user should be able to view the booking details
+TC4 The user should be able to logout from the application
